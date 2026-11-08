@@ -1,15 +1,15 @@
 # 📚 Books REST API – Backend Lab 3
 
-**Student Name:** Bolla Pradhyumna  
-Registration Number : 252U1R5027
+**Student Name:** B VIJAY KUMAR REDDY
+Registration Number : 252U1R5014
 Section: 106, AI&DE-2A
 Subject: Backend Development
 
 
-**Deployed API:**  https://pradhyumnalab3-production.up.railway.app/books/ 
+**Deployed API:**   
 
 
-**GitHub Repository:**  https://github.com/bollapradhyumna1409-collab/Pradhyumna_Lab_3.git
+**GitHub Repository:**  
 
 
 
@@ -124,12 +124,12 @@ The project is deployed using **Railway** and connected to the GitHub repository
 **Base URL:**
 
 ```text
-https://pradhyumnalab3-production.up.railway.app
+
 ```
 
 **Books API:**
 
-[https://pradhyumnalab3-production.up.railway.app/books/](https://pradhyumnalab3-production.up.railway.app/books/)
+
 
 ## 🔗 API Endpoints
 
@@ -463,9 +463,9 @@ The following debugging issues were addressed during development:
 
 ## 👨‍💻 Author
 
-**Bolla Pradhyumna**
+**B VIJAY KUMAR REDDY **
 
-GitHub: https://github.com/bollapradhyumna1409-collab/Pradhyumna_Lab_3.git
+GitHub: 
 
 ## 🎯 Project Objective
 
@@ -474,4 +474,4 @@ To gain practical experience in REST API development using Node.js, Express.js, 
 ---
 
 **Backend Lab 3 – Books REST API**  
-*Developed by Bolla Pradhyumna*
+*Developed by B VIJAY KUMAR REDDY*
